@@ -20,7 +20,7 @@ NYPD hate crime data analysis delves into uncovering trends in the data, both in
 `Author:` Manjit Baishya <br>
 `Start Date:` 06/03/2024 <br>
 `Project Status:` Completed<br>
-`End Date:` *08/08/2024* <br>
+`End Date:` 08/08/2024 <br>
 `Last Update:` 08/03/2024<br>
 
 ## **Statement of Work**
