@@ -12,13 +12,16 @@ The dataset has not been cleaned before hand. It has been originally sourced fro
 NYPD hate crime data analysis delves into uncovering trends in the data, both in terms of temporal patterns, like changes over time, and geospatial distribution, identifying areas with higher concentrations of hate crimes. Examining the details of the data, including offense types, associated law codes, bias motivations behind the crimes, and arrest trends, provides a deeper understanding of the nature of these incidents and how law enforcement responds.
 
 ## **Contents**
+- [**Info**](#info)
+- [**Statement of Work**](#statement-of-work)
+- [**Data Analysis**](#data-analysis)
 
 ## **Info**
 `Author:` Manjit Baishya <br>
-`Start Date:` 06/03/2023 <br>
-`Project Status:` In Progress<br>
-`End Date:` *NA* <br>
-`Last Update:` 07/03/2023<br>
+`Start Date:` 06/03/2024 <br>
+`Project Status:` Completed<br>
+`End Date:` *08/08/2024* <br>
+`Last Update:` 08/03/2024<br>
 
 ## **Statement of Work**
 This project is dedicated to determine the key points responsible for crimes in `NYPD`. Analysis has been done through various measures - including categorical, temporal and spatial points. It has been accompanied with visualizations wherever necessary.
@@ -41,6 +44,6 @@ Here, we perform all sorts of temporal, categoriccal and geospatial analysis on 
 Here, we use `Matplotlib` and `Seaborn` to visualize our data.
 
 ### `Step 6:` Conclusion
-We state some conclusions drawn from our analysis.
+Some conclusions drawn from the analysis on each instance.
 
 # **THANK YOU**
