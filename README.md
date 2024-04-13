@@ -1,4 +1,6 @@
 # **NYPD Hate Crime Analysis**
+![image](https://github.com/manjit-baishya-datascience/NYPD-Hate-Crime-EDA/assets/127611924/d0e4f61b-3322-44cb-8722-20fac9bda2d2)
+
 This project is an analysis of the crimes in **NYPD** over various factors. The data has been sourced from [**this**](https://www.kaggle.com/datasets/manjitbaishya001/nypd-hate-crimes) Kaggle dataset and the corresponding [**Kaggle**](https://www.kaggle.com/code/manjitbaishya001/nypd-hate-crime-eda) notebook has been also linked.
 
 ## **About the Dataset**
